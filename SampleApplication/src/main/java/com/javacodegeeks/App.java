@@ -11,6 +11,7 @@ public class App {
 	}
 	
     public static void main(String[] args) {
+final String str1="hi"
     	final String str = "Hello!";
     	
         App appObject = new App();
